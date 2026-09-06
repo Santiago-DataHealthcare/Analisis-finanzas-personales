@@ -1,0 +1,10 @@
+fecha,tipo,categoria,subcategoria,monto,moneda,metodo_pago,observaciones
+2026-09-01,Ingreso,Salario,Hospital Luján,1221413,ARS,Transferencia,Sueldo Luján
+2026-09-01,Ingreso,Salario,Hospital San José,1043645,ARS,Transferencia,Sueldo San José
+2026-09-01,Ingreso,Salario,Domicilio,512160,ARS,Tansferencia,Domicilio Rafa
+2026-09-01,Egreso,Alimentación,Supermercado,774242,ARS,Debito automatico,Compra mensual
+2026-09-01,Egreso,Transporte,Combustible,88000,ARS,Débito Automático,Nafta
+2026-09-01,Egreso,Servicios,Luz,135000,ARS,Debito automatico,CESPLL
+2026-09-01,Egreso,Telefonia e internet,Movistar,11000,ARS,Debito automatico,Movistar
+2026-09-01,Egreso,Federal seguros,Seguro moto y Malapraxis,30000,ARS,Debito automatico,Melo Seguros
+2026-09-01,Egreso,Gastos personales,Psicologa,200000,ARS,Transferencia,Gloria Ruiz
